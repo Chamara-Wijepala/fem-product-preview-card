@@ -1,0 +1,24 @@
+{
+  "name": "fem-product-preview-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./dist/output.css",
+    "start": "tailwindcss -i ./input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamara-Wijepala/fem-product-preview-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamara-Wijepala/fem-product-preview-card/issues"
+  },
+  "homepage": "https://github.com/Chamara-Wijepala/fem-product-preview-card#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
